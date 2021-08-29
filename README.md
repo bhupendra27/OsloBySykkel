@@ -93,6 +93,18 @@ Historical data
 
 - [@bhupendra27](https://github.com/bhupendra27)
 
+## Installation on Mac OS 10.15.8 with pre-installed homebrew for standalone execution.
+
+Ensure that you have python runtime 3.0 and requests module preinstalled using following commands.
+
+brew install python3
+
+pip3 install requests
+
+Clone the repository from github
+
+git clone https://github.com/bhupendra27/OsloBySykkel.git
+
   
 ## Usage Example for stand alone script
 
@@ -108,16 +120,14 @@ At station Ulven Torg there are 1 bikes available and with 29 docks available
 
 At station Domus Athletica there are 2 bikes available and with 28 docks available
 
-  
-## Installation on Mac OS 10.15.8 with pre-installed Homebrew for standalone execution.
-
-brew install python3
-
-pip3 install requests
 
 ## Appendix
 
 Documentation of real time data for Oslo City Bike
 
 https://oslobysykkel.no/en/open-data/realtime
+
+Page for installation of homebrew
+
+https://docs.brew.sh/Installation
   
