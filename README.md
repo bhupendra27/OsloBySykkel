@@ -106,7 +106,8 @@ Clone the repository from github
 git clone https://github.com/bhupendra27/OsloBySykkel.git
 
   
-## Usage Example for stand alone script
+## Usage example for executing standalone script after cloning repo
+
 
 $cd OsloBySykkel
 
